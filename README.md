@@ -1,4 +1,4 @@
-#Minesweeper AI
+# Minesweeper AI
 
 This project was implemented as a part of Artifical Intelligence (CS271P) course at University of California, Irvine
 
