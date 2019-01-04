@@ -9,6 +9,10 @@ The agent can solve:<br>
 
 ## Generating the worlds
 
-Open `WorldGenertor` and run the `generateTournament.sh` to generate 1000 worlds of each level.<br>
+Open `WorldGenertor` folder and run the `generateTournament.sh` to generate 1000 worlds of each level.<br>
 The worlds are generated in a `Problems` folder which is created once the shell script is run.<br>
 <br>
+
+## Testing the agent
+
+Run the `make` command in the `Minesweeper_Java` folder. Open the `bin` folder and type `java -jar mine.jar -f <path of Problems folder>` to run the agent on the generated worlds.<br>
