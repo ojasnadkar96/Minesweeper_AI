@@ -3,9 +3,9 @@
 This project was implemented as a part of Artifical Intelligence (CS271P) course at University of California, Irvine
 
 The agent can solve:<br>
-80% Beginner worlds (8*8 10 mines)<br>
-75% Intermediate worlds (16*16 40 mines)<br>
-25% Expert worlds (16*30 99 mines)<br>
+80% Beginner worlds (8*\8 10 mines)<br>
+75% Intermediate worlds (16*\16 40 mines)<br>
+25% Expert worlds (16*\30 99 mines)<br>
 
 ## Generating the worlds
 
